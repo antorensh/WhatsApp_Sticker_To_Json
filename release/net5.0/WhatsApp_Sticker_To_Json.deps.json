@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WhatsApp_Sticker_To_Json/1.0.0": {
+        "runtime": {
+          "WhatsApp_Sticker_To_Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhatsApp_Sticker_To_Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
